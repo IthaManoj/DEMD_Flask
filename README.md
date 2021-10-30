@@ -1,8 +1,5 @@
 # Predicting if you would survive on the Titanic
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65482013/115981795-1f22c200-a5b4-11eb-9193-6243812e53ba.jpg" />
-</p>
 
 ## Following are the steps, this project follows-
 
@@ -26,9 +23,3 @@
 4. The passengers who travelled in 3rd class and died, were 200% more than those travelling in 1st and 2nd classes! But this was probably due to the higher no. of people travelling in 3rd
 5. The histograms of ages of people who died and survived follow almost the same trend. We can thus conclude that age did not play a role in survival. Though it should be noted that a lot of babies aged 0-1 survived, mostly because adult survivors would always carry any babies with them.
 6. People who had no spouses/siblings were a lot more likely to die. Similarly having 1-2 spouse/siblings helped survival a great deal!
-
-### Now all that is left to do is find out, if you would have survived on the Titanic!
-
-### Go to my [Heroku app](https://predicting-survival-on-titanic.herokuapp.com/) and find out!
-(All predictions are 83.15% accurate)
-
